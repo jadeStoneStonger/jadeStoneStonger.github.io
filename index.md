@@ -1,3 +1,6 @@
+<head>
+  <script data-ad-client="ca-pub-7375328926773867" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
 index.md
 jadeStoneStonger.github.io
 
